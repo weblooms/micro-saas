@@ -36,3 +36,21 @@
 - Database integration basics
 - Row Level Security (RLS) basics
 - Async data flow in applications
+
+# Day 3
+
+## What I built
+
+- Added signup functionality
+- Added login functionality
+- Added logout functionality
+- Displayed logged-in user information
+- Built basic authentication flow
+
+## What I learned
+
+- Authentication vs authorization
+- Session handling basics
+- User-aware UI
+- Supabase auth system
+- Stateful application behavior
